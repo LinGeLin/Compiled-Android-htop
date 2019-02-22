@@ -9,4 +9,9 @@ export LD_LIBRARY_PATH=/6-2ncinstall/lib
 
 ./htop
 
-# Don't forget give me a star！☺☺
+# Don't forget to give me a star！☺☺
+
+
+My Vegetable Chicken Blog：https://blog.csdn.net/Betterc5
+
+
